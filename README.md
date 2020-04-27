@@ -1,4 +1,4 @@
-#VentCore Firmware
+# VentCore Firmware
 
 VentCore is an open source ventilator project designed and developed by Formon in Prishtina, Kosovo.
 
