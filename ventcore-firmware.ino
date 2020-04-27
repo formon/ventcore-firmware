@@ -63,7 +63,8 @@ void paramsThreadCallback(){
   } else {
     cpapEnabled = false;
   }
-  
+
+  //TODO: HANDLE POTS VALUE ACCURACY
   td = map(analogRead(A5), 1023, 0, 250, 600);
   tdSteps = (int) ((td/600) * FULL_TD_STEPS);
   
