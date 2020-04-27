@@ -1,5 +1,9 @@
 # VentCore Firmware
 
+[VentCore Website](https://www.ventcore.health)
+
+(https://www.formon3d.com/ventcore.jpg "VentCore")
+
 VentCore is an open source ventilator project designed and developed by Formon in Prishtina, Kosovo.
 
 The shortage of ventilators that the hospitals worldwide are facing has become a big issue in our fight with COVID-19. That is why we developed VentCore.
