@@ -2,7 +2,7 @@
 
 [VentCore Website](https://www.ventcore.health)
 
-(https://www.formon3d.com/ventcore.jpg "VentCore")
+![alt text](https://www.formon3d.com/ventcore.jpg "VentCore")
 
 VentCore is an open source ventilator project designed and developed by Formon in Prishtina, Kosovo.
 
